@@ -7,5 +7,5 @@ Basic algorithms of personal repository
 
 <ul type = required >
   <li>Java 1.7
-  <li>maven 2 or higher
+  <li>Maven 2 or higher
 </ul>
