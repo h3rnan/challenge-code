@@ -1,4 +1,4 @@
-java-basic-tools
+challenge-code
 ================
 
-Basic Algorithms
+Basic algorithms of personal repository
